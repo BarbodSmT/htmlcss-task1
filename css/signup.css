@@ -1,0 +1,38 @@
+@import url(fontiran.css);
+body {
+    background-color: #eeeeee;
+    font-family: IRANSansX  !important;
+}
+.signup-box {
+    background-color: #ffffff;
+    width: 500px;
+    height: 600px;
+    margin: 50px auto 0 auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.box-header {
+    background-color: rgb(10, 1, 12);
+}
+.box-header img {
+    margin: auto;
+}
+.box-content {
+    padding: 48px;
+}
+.box-content h1 {
+    padding-bottom: 12px;
+}
+.box-content form label {
+    padding: 10px 0;
+}
+.form-check-label {
+    padding-right: 10px !important;
+}
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: 10px;
+}
+footer span {
+    margin: auto;
+}
